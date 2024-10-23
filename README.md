@@ -1,7 +1,7 @@
 <h1>Manage Users with Linux Commands</h1>
 
 <h2>Description</h2>
-This repository demonstrates the different types of SQL JOIN operations used to combine data from multiple tables. Each JOIN type has a specific use case, particularly in cybersecurity, where these operations help ensure data integrity, monitor access, and detect potential threats. Below are examples of INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN, each with an explanation of their purpose.
+This repository demonstrates the process of managing user accounts in Linux. It will outline the steps to add the user researcher9 to a designated team, modify the user's group affiliation to another team within the organization, and subsequently delete the user account along with the associated group using Linux commands.
 
 <h2>Languages and Utilities Used</h2>
 
